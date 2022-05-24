@@ -21,7 +21,7 @@ public class ScorecardActivity extends AppCompatActivity {
         Intent intent = getIntent();
         String id = intent.getStringExtra("score");
         String name = intent.getStringExtra("total");
-        txt.setText("Total Attempted : "+id+"\nScore : "+name);
+        txt.setText("Total Attempted : "+name+"\nScore : "+id);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

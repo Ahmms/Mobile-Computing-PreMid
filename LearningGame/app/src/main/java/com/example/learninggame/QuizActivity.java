@@ -51,8 +51,8 @@ public class QuizActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(QuizActivity.this, ScorecardActivity.class);
-                intent.putExtra("score", score);
-                intent.putExtra("total", total_question);
+                intent.putExtra("score", Integer.toString(score));
+                intent.putExtra("total", Integer.toString(total_question-1));
                 startActivity(intent);
             }
         });
