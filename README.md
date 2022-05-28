@@ -1,2 +1,2 @@
-# Mobile-Computing-PreMid
+# Mobile-Computing
 Practice Material of Mobile Computing course 
