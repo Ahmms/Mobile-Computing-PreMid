@@ -3,10 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Ahmad/AndroidStudioProjects/LearningGame/app/src/main/res/layout/activity_learn.xml" value="0.15" />
+        <entry key="..\:/Users/Ahmad/AndroidStudioProjects/LearningGame/app/src/main/res/layout/activity_learn.xml" value="0.1617161716171617" />
         <entry key="..\:/Users/Ahmad/AndroidStudioProjects/LearningGame/app/src/main/res/layout/activity_main.xml" value="0.12" />
         <entry key="..\:/Users/Ahmad/AndroidStudioProjects/LearningGame/app/src/main/res/layout/activity_quiz.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Ahmad/AndroidStudioProjects/LearningGame/app/src/main/res/layout/activity_scorecard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ahmad/AndroidStudioProjects/LearningGame/app/src/main/res/layout/activity_view_toast.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

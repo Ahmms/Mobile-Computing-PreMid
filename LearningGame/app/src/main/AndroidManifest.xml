@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LearningGame">
         <activity
+            android:name=".viewToast"
+            android:exported="false" />
+        <activity
             android:name=".ScorecardActivity"
             android:exported="false" />
         <activity
